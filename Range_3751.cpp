@@ -1,3 +1,5 @@
+// Total Waviness of Numbers in Range I (Medium)
+
 class Solution {
 public:
     int totalWaviness(int num1, int num2) {
