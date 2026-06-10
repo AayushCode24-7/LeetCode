@@ -1,4 +1,5 @@
-
+#include <bits/stdc++.h>
+using namespace std;
 class SparseTable {
     vector<vector<int>> Min, Max;
 
