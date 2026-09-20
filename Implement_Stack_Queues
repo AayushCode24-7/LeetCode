@@ -1,5 +1,4 @@
 #include <queue>
-
 class MyStack {
 private:
     std::queue<int> q;
